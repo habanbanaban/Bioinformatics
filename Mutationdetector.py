@@ -1,3 +1,4 @@
+
 aminoacids = {
     'gga': 'G',
     'ggc': 'G',
